@@ -6,5 +6,5 @@ grpc、protobuf、golang
 #####2.proto 以及 rotoc-gen-go插件
 
 
-#####1.启动server,go build ,执行
-#####2.启动client, go build ,执行
+##### 1.启动server,go build ,执行
+##### 2.启动client, go build ,执行
